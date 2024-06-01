@@ -1,0 +1,6 @@
+airline,name,sex,age,marriage,origin,destination
+Delta,Danyal Iran Mehr,Male,21,Single,America,Emirates
+Delta,Reza Iran Mehr,Male,25,Married,America,Emirates
+Delta,Abas Iran Mehr,Male,28,Married,Canada,America
+Air France,Zohreh Iran Mehr,Female,30,Married,Germany,Canada
+Lufthansa,Ali Alavi,Male,63,Married,Emirates,Canada
